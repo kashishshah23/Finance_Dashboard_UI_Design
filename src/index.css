@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App-wide tokens */
+:root {
+  --radius: 16px;
+}
+
+/* Wireframe mode: outlines + grayscale */
+[data-wireframe="true"] * {
+  outline: 1px dashed rgba(255,255,255,0.18);
+  outline-offset: -1px;
+}
+[data-wireframe="true"] img,
+[data-wireframe="true"] video,
+[data-wireframe="true"] .no-wire {
+  filter: grayscale(100%);
+}
+
+/* Scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #374151 transparent;
+}
