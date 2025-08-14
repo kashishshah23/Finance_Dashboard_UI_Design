@@ -3,7 +3,7 @@
 A modern, responsive finance and sales dashboard built with React, Tailwind CSS, and charting libraries.  
 The dashboard includes multiple views such as **Finance & Sales Overview** and **Latest Design Works**, with real-time charts, performance tracking, and a professional UI/UX.
 
----
+--- 
 
 ## 🚀 Features
 - **Finance & Sales Overview** with revenue, deal size, conversion rates, and top regions.
