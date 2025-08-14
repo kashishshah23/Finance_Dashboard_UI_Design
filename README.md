@@ -64,25 +64,25 @@ npm run build
 ## 📸 Screenshots
 
 ### 1️⃣ Finance & Sales Overview (Top Section)
-![Screenshot 1](screenshots/screenshot1.png)  
+![Screenshot 1](screenshots/Screenshot1.png)  
 Displays revenue (MTD), average deal size, lead-to-win conversion rate, top region, and a **Monthly Sales Growth** chart.
 
 ---
 
 ### 2️⃣ Finance & Sales Overview (Bottom Section)
-![Screenshot 2](screenshots/screenshot2.png)  
+![Screenshot 2](screenshots/Screenshot2.png)  
 Shows **Top-Performing Products**, **Regional Performance**, **Sales Funnel**, and a **Recent Deals** table.
 
 ---
 
 ### 3️⃣ Latest Design Works
-![Screenshot 3](screenshots/screenshot3.png)  
+![Screenshot 3](screenshots/Screenshot3.png)  
 Showcases various design projects with thumbnails, titles, short descriptions, and category tags.
 
 ---
 
 ### 4️⃣ Wireframe Mode
-![Screenshot 4](screenshots/screenshot4.png)  
+![Screenshot 4](screenshots/Screenshot4.png)  
 Displays the dashboard in **Wireframe View**, useful for reviewing layout and spacing.
 
 ---
